@@ -4,10 +4,10 @@
 * 左右滑动多图查看
 * 仿微信下拽退出
 
-![image](https://github.com/iielse/DemoProjects/blob/master/previews/111.gif)
-![image](https://github.com/iielse/DemoProjects/blob/master/previews/222.gif)
-![image](https://github.com/iielse/DemoProjects/blob/master/previews/333.gif)
-![image](https://github.com/iielse/DemoProjects/blob/master/previews/444.gif)
+![image](/previews/111.gif)
+![image](/previews/222.gif)
+![image](/previews/333.gif)
+![image](/previews/444.gif)
 
 ### 示例下载
 在 previews文件夹下 app-debug.apk
